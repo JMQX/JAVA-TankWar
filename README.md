@@ -1,4 +1,4 @@
-# JAVA-TankWar
+﻿# JAVA-TankWar
 一个大一时期自己写的坦克大战游戏。
 一.功能描述
 
@@ -19,6 +19,15 @@
 7. 敌方坦克之间不能互相攻击；
 
 8. Tank子弹、导弹击中敌方坦克有爆炸效果；
+
+
+![](https://github.com/JMQX/JAVA-TankWar/blob/master/screenshots/1.png)
+
+![](https://github.com/JMQX/JAVA-TankWar/blob/master/screenshots/2.png)
+
+![](https://github.com/JMQX/JAVA-TankWar/blob/master/screenshots/3.png)
+
+![](https://github.com/JMQX/JAVA-TankWar/blob/master/screenshots/4.png)
 
 #### 项目开发环境
 
